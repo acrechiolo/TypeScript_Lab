@@ -1,4 +1,5 @@
 "use strict";
+//TALLEST MOUNTAIN 
 ;
 let mountains = [
     { name: "Kilimanjaro", height: 19341 },
@@ -21,7 +22,7 @@ console.log(tallestMountain);
 ;
 let products = [
     { name: "Diamond Encrusted Electric Cat Toothbrush", price: 5000 },
-    { name: "Louis Vuitton Covid Mask", price: 600 },
+    { name: "Louis Vuitton PPE Mask", price: 600 },
     { name: "A bag of moldy skittles", price: 0.50 }
 ];
 let calcAverageProductPrice = (productsArray) => {

@@ -1,3 +1,6 @@
+
+//TALLEST MOUNTAIN 
+
 interface Mountain {
     name: string,
     height: number,
@@ -32,7 +35,7 @@ interface Product {
 
 let products: Product[] = [
     { name: "Diamond Encrusted Electric Cat Toothbrush", price: 5000 },
-    { name: "Louis Vuitton Covid Mask", price: 600 },
+    { name: "Louis Vuitton PPE Mask", price: 600 },
     { name: "A bag of moldy skittles", price: 0.50 }
 ]
 
